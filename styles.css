@@ -176,6 +176,14 @@ h2
     height: 20vh;
 }
 
+input
+{
+	margin-top: 20%;
+	padding-left: 10px;
+	width: 75%;
+	height: 10vh;
+}
+
 .buttonContainer
 {
 	display: flex;
